@@ -31,7 +31,3 @@ cd cosecha_app
 flutter pub get
 flutter run
 ```
-
-## Integridad académica y uso de IA
-
-Se utilizó una herramienta de inteligencia artificial como apoyo para organizar la estructura del repositorio, proponer ejemplos de sintaxis, comentar el código y revisar su claridad. El contenido fue revisado y debe ser comprendido por el estudiante antes de su entrega, conforme al artículo 96 indicado en la actividad.

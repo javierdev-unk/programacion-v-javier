@@ -1,4 +1,4 @@
-# Programación V – Javier Steven Consuegra Rivera
+# Programación V – Javier Consuegra
 
 **Curso:** 6A  
 **Institución:** Universidad Agraria del Ecuador  
